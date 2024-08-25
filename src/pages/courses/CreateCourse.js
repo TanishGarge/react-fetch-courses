@@ -62,7 +62,7 @@ export default function CreateCourse() {
                         marginTop: 8,
                         display: "flex",
                         flexDirection: "column",
-                        alignItems: "center",val
+                        alignItems: "center",
                     }}
                 >
                     <Avatar sx={{ m: 1, bgcolor: "secondary.main" }}>
